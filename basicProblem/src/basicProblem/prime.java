@@ -19,7 +19,7 @@ public static void main(String[]args)
 	}
 	if (temp==0)
 	{
-		System.out.println("Number is prime");
+		System.out.println("Number is a prime");
 	}
 	else {
 		System.out.println ("Number is not a prime");
