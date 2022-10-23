@@ -4,9 +4,9 @@ import java.util.*;
 public class prime {
 public static void main(String[]args)
 {
-	System.out.println("Enter the number");
-	Scanner h =new Scanner(System.in);
-	int n= h.nextInt();
+	System.out.println("Enter number");
+	Scanner sc =new Scanner(System.in);
+	int n= sc.nextInt();
 	int i=2,temp=0;
 	while(i<=n/2)
 	{
