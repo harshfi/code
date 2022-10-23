@@ -14,14 +14,12 @@ public static void main(String[]args)
 		{
 			temp=1;
 			break;
-			
-			
 		}
 		i++;
 	}
 	if (temp==0)
 	{
-		System.out.println("Nimber is prime");
+		System.out.println("Number is prime");
 	}
 	else {
 		System.out.println ("Number is not a prime");
